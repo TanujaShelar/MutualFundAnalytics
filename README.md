@@ -1,2 +1,20 @@
-# MutualFundAnalytics
-Mutual Fund Analytics project for Data Analyst Internship. Includes data ingestion, NAV data collection using MFAPI, data validation, exploratory analysis, and Git-based project management.
+# Mutual Fund Analytics
+
+Data Analyst Internship Capstone Project
+
+Tools Used:
+- Python
+- Pandas
+- NumPy
+- Requests
+- Matplotlib
+- GitHub
+
+Project Tasks:
+- Load mutual fund datasets
+- Fetch NAV data using MFAPI
+- Validate AMFI codes
+- Perform data quality checks
+
+Author:
+Tanuja Shelar
